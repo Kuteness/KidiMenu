@@ -3,9 +3,9 @@
 2. Download the source code from this GitHub
 3. Open it with Android Studio
 4. Open build.gradle.kts
-5. Replace the id on line 13 by one of a game on your Kidicom Max, same with line 7
+5. Replace the id on line 13 by one of a game on your Kidicom Max
 6. Open app/src/main/java/com/vtech/innotab/dgmaxregistration/MainActivity.kt
-7. Replace the first line's id by the same as line 13 and line 7
+7. Replace the first line's id by the same as line 13
 
 ## How to have the app id ?
 1. Pick one of your Kidicom Max games on the Games app

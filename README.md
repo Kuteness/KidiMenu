@@ -14,7 +14,8 @@
 4. Press your game on Lucky Patcher
 5. Press "App info"
 6. Recopy on your PC the "Package Name"
-7. Do the steps on the first tutorial
+7. After that uninstall the game (if you want to keep it, dump it)
+8. Do the steps on the first tutorial
 
 After all of these steps just build the app on Android Studio "Build/Generate App Bundles or APKs/Generate APKs"
 And install it on your Kidicom Max using the Settings app
